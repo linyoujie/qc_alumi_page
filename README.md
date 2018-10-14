@@ -9,34 +9,64 @@ Story：
     
 TO DO:
 
+Home (Home page)
+
+Our Teams (Teams)
+
+About Us 
+
+Donate Us
+
+Contact Us
+
+
 Login
 
-Registration
+Join Us (Registration)
 
-Home page
 
 navigation bar
 
-    Logo
+    Logo ???
+    
+    Home (Home page)
 
+    Our Teams (Teams)
+    
+         3 buttons for 3 teams
+         
     About Us 
-  Teams (Drop down)
-    3 buttons for 3 teams
-   Donate Us(patreon)
-  Contact Us
+
+    Donate Us
+
+    Contact Us
+
+
+    Login
+
+    Join Us (Registration)
+    
 
 
 Container for content
+
 6 place holders
+
 text box -> description
+
 Placeholder (photo)
+
 Text box (description)
+
 Button – direct to selected user’s profile
+
 Go back button
+
 Footer
 
 Here is the web view for UIUX:
+
 https://xd.adobe.com/spec/90aed594-ddf3-456b-45cb-12f415fdecdf-e69f/
 
 Only the Home page have the prototype, and other three have the style.
-q
+
