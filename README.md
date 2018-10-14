@@ -10,11 +10,16 @@ Story：
 TO DO:
 
 Login
+
 Registration
+
 Home page
-  navigation bar
-  Logo
-  About Us 
+
+navigation bar
+
+    Logo
+
+    About Us 
   Teams (Drop down)
     3 buttons for 3 teams
    Donate Us(patreon)
